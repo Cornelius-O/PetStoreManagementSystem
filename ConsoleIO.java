@@ -1,13 +1,6 @@
 
 import java.util.Scanner;
 
-/**
- * Name: Feranmi Oluwasikun
- * NSID: CSB904
- * Student Number: 11315767
- * Class: CMPT 270 03
- */
-
 
 public class ConsoleIO implements InputOutputInterface {
     public static void main(String[] args) {}
