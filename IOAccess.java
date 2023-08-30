@@ -1,10 +1,3 @@
-/**
- * Name: Feranmi Oluwasikun
- * NSID: CSB904
- * Student Number: 11315767
- * Class: CMPT 270 03
- */
-
 
 /**
  * Singleton design for IO Interface
