@@ -1,0 +1,147 @@
+Name: Feranmi Oluwasikun
+NSID: CSB904
+Student Number: 11315767
+Class: CMPT 270 03
+
+
+Enter the name of the store: GumBody
+Enter the integer label for the first bed: 1
+Enter the integer label for the last bed: 9
+-------System running-------
+Options:
+	1: Quit
+	2: Add a new animal to system
+	3: Add a new staff member to system
+	4: Assign a staff member to an animal
+	5: Display the empty kennels in the store
+	6: Assign an animal to a kennel
+	7: Release an animal
+	8: Remove staff-animal association
+	9: Show current system state
+Enter your selection {1-9}: 2
+-------Adding Animal to Residence-------
+Enter the name of the animal: Gshock
+Enter the animal ID of the animal: 213
+Enter the type of animal: Dog
+Options:
+	1: Quit
+	2: Add a new animal to system
+	3: Add a new staff member to system
+	4: Assign a staff member to an animal
+	5: Display the empty kennels in the store
+	6: Assign an animal to a kennel
+	7: Release an animal
+	8: Remove staff-animal association
+	9: Show current system state
+Enter your selection {1-9}: 6
+-------Assigning a kennel to an animal-------
+Enter the animalID of the animal: 213
+Enter the kennel label for the animal: 5
+Options:
+	1: Quit
+	2: Add a new animal to system
+	3: Add a new staff member to system
+	4: Assign a staff member to an animal
+	5: Display the empty kennels in the store
+	6: Assign an animal to a kennel
+	7: Release an animal
+	8: Remove staff-animal association
+	9: Show current system state
+Enter your selection {1-9}: 5
+[1, 2, 3, 4, 6, 7, 8, 9]
+Options:
+	1: Quit
+	2: Add a new animal to system
+	3: Add a new staff member to system
+	4: Assign a staff member to an animal
+	5: Display the empty kennels in the store
+	6: Assign an animal to a kennel
+	7: Release an animal
+	8: Remove staff-animal association
+	9: Show current system state
+Enter your selection {1-9}: 2
+-------Adding Animal to Residence-------
+Enter the name of the animal: Smithy
+Enter the animal ID of the animal: 215
+Enter the type of animal: cat
+Options:
+	1: Quit
+	2: Add a new animal to system
+	3: Add a new staff member to system
+	4: Assign a staff member to an animal
+	5: Display the empty kennels in the store
+	6: Assign an animal to a kennel
+	7: Release an animal
+	8: Remove staff-animal association
+	9: Show current system state
+Enter your selection {1-9}: 6
+-------Assigning a kennel to an animal-------
+Enter the animalID of the animal: 215
+Enter the kennel label for the animal: 6
+Options:
+	1: Quit
+	2: Add a new animal to system
+	3: Add a new staff member to system
+	4: Assign a staff member to an animal
+	5: Display the empty kennels in the store
+	6: Assign an animal to a kennel
+	7: Release an animal
+	8: Remove staff-animal association
+	9: Show current system state
+Enter your selection {1-9}: 5
+[1, 2, 3, 4, 7, 8, 9]
+Options:
+	1: Quit
+	2: Add a new animal to system
+	3: Add a new staff member to system
+	4: Assign a staff member to an animal
+	5: Display the empty kennels in the store
+	6: Assign an animal to a kennel
+	7: Release an animal
+	8: Remove staff-animal association
+	9: Show current system state
+Enter your selection {1-9}: 7
+-------Releasing an animal in a kennel-------
+Enter the animalID of the animal: 215
+Enter the kennel label for the animal: 6
+Options:
+	1: Quit
+	2: Add a new animal to system
+	3: Add a new staff member to system
+	4: Assign a staff member to an animal
+	5: Display the empty kennels in the store
+	6: Assign an animal to a kennel
+	7: Release an animal
+	8: Remove staff-animal association
+	9: Show current system state
+Enter your selection {1-9}: 5
+[1, 2, 3, 4, 6, 7, 8, 9]
+Options:
+	1: Quit
+	2: Add a new animal to system
+	3: Add a new staff member to system
+	4: Assign a staff member to an animal
+	5: Display the empty kennels in the store
+	6: Assign an animal to a kennel
+	7: Release an animal
+	8: Remove staff-animal association
+	9: Show current system state
+Enter your selection {1-9}: 1
+
+The students in the system are:Name: Gshock, Type: Dog, ID: 213, Kennel: 5, Assigned Staff: Name: Smithy, Type: cat, ID: 215, Kennel: 6, Assigned Staff: 
+-------
+The staff members in the system are:
+-------
+The store is Store: GumBody
+Number of kennels: 9
+Current animals:
+Kennel #1: [none]
+Kennel #2: [none]
+Kennel #3: [none]
+Kennel #4: [none]
+Kennel #5: Gshock
+Kennel #6: [none]
+Kennel #7: [none]
+Kennel #8: [none]
+Kennel #9: [none]
+-------System terminated-------
